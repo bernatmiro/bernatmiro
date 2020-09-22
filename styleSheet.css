@@ -1,0 +1,19 @@
+
+
+h1{
+border-bottom-style:solid;
+border-bottom-color: red;
+}
+form{ border-style: solid;
+border-bottom: black;
+border-top: black;
+border-left: black;
+}
+p{
+text-align: center;
+color: aquamarine;
+background-color: rgb(154, 158, 157);
+}
+
+img{margin-left: 500px;}
+
